@@ -2,7 +2,7 @@
 
 Benvenuti nel repository del mio curriculum vitae online! Questo progetto è una vetrina delle mie competenze, dei miei progetti e della mia esperienza nel mondo dello sviluppo software.
 
-🚀 **[Link al sito live](https://tuonome.github.io)** (Sostituisci con il tuo link vero)
+🚀 **[Link al sito live](https://LeoXD1503.github.io)** (Sostituisci con il tuo link vero)
 
 ---
 
